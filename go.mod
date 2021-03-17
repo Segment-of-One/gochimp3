@@ -1,4 +1,4 @@
-module github.com/koryzna-so1/gochimp3
+module github.com/Segment-of-One/gochimp3
 
 go 1.13
 
